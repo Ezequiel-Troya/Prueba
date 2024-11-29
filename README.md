@@ -1,2 +1,4 @@
 # Prueba
-[![](https://markdown-videos.deta.dev/youtube/ssMNCIUPOLI)](https://youtu.be/ssMNCIUPOLI?si=MBYI_l3v0n_5_zoY)
+# Mostrar Miniatura de un Video de YouTube en el Archivo READMED.md de un Repositorio de GitHub
+ 
+[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
